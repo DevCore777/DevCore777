@@ -159,7 +159,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </p>
 <p align="center">
 <a href="http://www.github.com/DevCore777"><img src="https://github-readme-stats-78514.vercel.app/api?username=DevCore777&theme=react&show_icons=true&include_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=5" alt="DevCore777 GitHub stats" /></a>
-<a href="http://www.github.com/DevCore777"><img src="https://github-readme-stats-78514.vercel.app/api/top-langs/?username=DevCore777&theme=react&layout=donut&border_radius=5&include_private=true&langs_count=15" alt="DevCore777 GitHub stats" /></a>
+<a href="http://www.github.com/DevCore777"><img src="https://github-readme-stats-78514.vercel.app/api/top-langs/?username=DevCore777&theme=react&layout=donut&border_radius=5&include_private=true" alt="DevCore777 GitHub stats" /></a>
 </p>
 
 
