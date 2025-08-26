@@ -5,7 +5,7 @@ name: Generate Snake Animation
 on:
   # به صورت زمان‌بندی شده (هر ۱۲ ساعت یکبار)
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *"
   
   # این گزینه به شما اجازه می‌دهد اکشن را به صورت دستی هم اجرا کنید
   workflow_dispatch:
