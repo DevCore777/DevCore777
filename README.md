@@ -1,4 +1,6 @@
-![Header](./[banner.png])
+<p align="center">
+<img src="https://raw.githubusercontent.com/DevCore777/DevCore777/refs/heads/main/banner.png" width="100%" />
+</p>
 
 
 ## Software Engineer & Graphic Designer
