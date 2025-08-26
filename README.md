@@ -158,17 +158,9 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-35d864.vercel.app?user=DevCore777&theme=react&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-<a href="http://www.github.com/Jarvis-W-G"><img src="https://github-readme-stats.vercel.app/api?username=Jarvis-W-G&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jarvis-W-G GitHub stats" /></a>
+<a href="http://www.github.com/DevCore777"><img src="https://github-readme-stats-78514.vercel.app/api?username=DevCore777&theme=react&show_icons=true&include_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=5" alt="DevCore777 GitHub stats" /></a>
 </p>
-<p align="center">
-<a href="http://www.github.com/Jarvis-W-G"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jarvis-W-G&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-<p align="center">
-<a href="http://www.github.com/Jarvis-W-G"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jarvis-W-G&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/Jarvis-W-G" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarvis-W-G&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevCore777/DevCore777/output/github-contribution-grid-snake.svg" />
