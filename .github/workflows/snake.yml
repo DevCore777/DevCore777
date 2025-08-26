@@ -1,0 +1,42 @@
+# نام این اکشن
+name: Generate Snake Animation
+
+# این بخش مشخص می‌کند که اکشن چه زمانی اجرا شود
+on:
+  # به صورت زمان‌بندی شده (هر ۱۲ ساعت یکبار)
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # این گزینه به شما اجازه می‌دهد اکشن را به صورت دستی هم اجرا کنید
+  workflow_dispatch:
+
+# کارهایی که باید انجام شوند
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # مرحله اول: کدهای ریپازیتوری را دانلود می‌کند
+      - uses: actions/checkout@v3
+
+      # مرحله دوم: انیمیشن مار را تولید می‌کند
+      - uses: platane/snk@v3
+        with:
+          # نام کاربری گیت‌هاب شما به صورت خودکار شناسایی می‌شود
+          github_user_name: ${{ github.repository_owner }}
+
+          # فایل‌های خروجی را مشخص می‌کند
+          # ما دو نسخه می‌سازیم: یکی برای حالت روشن و یکی برای حالت تیره
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # مرحله سوم: فایل‌های ساخته شده را در همین ریپازیتوری آپلود می‌کند
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # فایل‌ها را به شاخه‌ای به نام output منتقل می‌کند
+          target_branch: output
+          build_dir: dist
+        env:
+          # از توکن پیش‌فرض گیت‌هاب برای اجازه دسترسی استفاده می‌کند
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
