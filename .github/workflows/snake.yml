@@ -12,14 +12,18 @@ on:
 
 # کارهایی که باید انجام شوند
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
       # مرحله اول: کدهای ریپازیتوری را دانلود می‌کند
       - uses: actions/checkout@v3
 
       # مرحله دوم: انیمیشن مار را تولید می‌کند
-      - uses: platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           # نام کاربری گیت‌هاب شما به صورت خودکار شناسایی می‌شود
           github_user_name: ${{ github.repository_owner }}
@@ -31,7 +35,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # مرحله سوم: فایل‌های ساخته شده را در همین ریپازیتوری آپلود می‌کند
-      - name: Push snake animation
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # فایل‌ها را به شاخه‌ای به نام output منتقل می‌کند
