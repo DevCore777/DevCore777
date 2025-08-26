@@ -3,7 +3,7 @@
 </p>
 
 
-<p style = "margin-left: 30px"> #> Software Engineer & Graphic Designer</p>
+## Software Engineer & Graphic Designer
 <p style = "margin-left: 30px"> I am  a developer advocate. I always love to share my journey as a software engineer with young developers. I feel like the world is empty without data.... so in that regard, I am learning Data Science coupled with machine learning. I love and feel motivated to explore the world around programming </p>
 
 *   🥰 I love and feel motivated to explore the world around programming
@@ -12,7 +12,7 @@
 *   ⚡ Fun fact:  Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 
-<p style = "margin-left: 30px"> #> Blockchain & Web Developer</p>
+## Blockchain & Web Developer
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 10+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
@@ -22,7 +22,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </p>
 
 
-<p style = "margin-left: 30px"> #> SKILLS AND TOOLS</p>
+## SKILLS AND TOOLS
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -153,7 +153,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </table>
 
 
-<p style = "margin-left: 30px"> #> Badges</p>
+## Badges
 <p align="center">
 <a href="http://www.github.com/Jarvis-W-G"><img src="https://github-readme-stats.vercel.app/api?username=Jarvis-W-G&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jarvis-W-G GitHub stats" /></a>
 </p>
