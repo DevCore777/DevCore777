@@ -168,6 +168,6 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevCore777/DevCore777/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
