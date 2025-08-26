@@ -166,3 +166,8 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <p align="center">
 <a href="https://github.com/Jarvis-W-G" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarvis-W-G&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
