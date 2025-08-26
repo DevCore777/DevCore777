@@ -3,7 +3,7 @@
 </p>
 
 
-## Software Engineer & Graphic Designer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=28E4E2&width=435&lines=%23%23%23+Software+Engineer+%26+Graphic+Designer" alt="Typing SVG" /></a>
 <p style = "margin-left: 30px"> I am  a developer advocate. I always love to share my journey as a software engineer with young developers. I feel like the world is empty without data.... so in that regard, I am learning Data Science coupled with machine learning. I love and feel motivated to explore the world around programming </p>
 
 *   🥰 I love and feel motivated to explore the world around programming
@@ -12,7 +12,7 @@
 *   ⚡ Fun fact:  Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 
-## Blockchain & Web Developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=28E4E2&width=435&lines=%23%23%23+Blockchain+%26+Web+Developer" alt="Typing SVG" /></a>
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 10+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
@@ -22,7 +22,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </p>
 
 
-## SKILLS AND TOOLS
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=28E4E2&width=435&lines=%23%23%23+SKILLS+AND+TOOLS" alt="Typing SVG" /></a>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -153,7 +153,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </table>
 
 
-### Badges
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=28E4E2&width=435&lines=%23%23%23+Badges" alt="Typing SVG" /></a>
 <p align="center">
 <a href="http://www.github.com/Jarvis-W-G"><img src="https://github-readme-stats.vercel.app/api?username=Jarvis-W-G&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jarvis-W-G GitHub stats" /></a>
 </p>
