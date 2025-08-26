@@ -155,6 +155,9 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 ## Badges
 <p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevCore777&theme=react&border_radius=5&mode=weekly&exclude_days=Sun" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
 <a href="http://www.github.com/Jarvis-W-G"><img src="https://github-readme-stats.vercel.app/api?username=Jarvis-W-G&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jarvis-W-G GitHub stats" /></a>
 </p>
 <p align="center">
