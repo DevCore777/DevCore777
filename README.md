@@ -155,15 +155,13 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 ## Badges
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-35d864.vercel.app?user=DevCore777&theme=react&border_radius=5" alt="GitHub Streak" /></a>
+<a href="http://www.github.com/DevCore777"><img src="https://github-readme-streak-stats-35d864.vercel.app?user=DevCore777&theme=react&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
 <a href="http://www.github.com/DevCore777"><img src="https://github-readme-stats-45d7824.vercel.app/api?username=DevCore777&theme=react&show_icons=true&include_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=5" alt="DevCore777 GitHub stats" /></a>
 <a href="http://www.github.com/DevCore777"><img src="https://github-readme-stats-45d7824.vercel.app/api/top-langs/?username=DevCore777&theme=react&layout=donut&border_radius=5&include_private=true" alt="DevCore777 GitHub stats" /></a>
 </p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevCore777/DevCore777/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<p align="center">
+<a href="http://www.github.com/DevCore777"><img src="https://github-readme-activity-graph-3214f6.vercel.app/graph?username=DevCore777&theme=react" alt="DevCore777 GitHub stats" /></a>
+</p>
